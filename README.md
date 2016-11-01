@@ -1,4 +1,4 @@
-# Weight-Watchers App for Windows Phone 8.1 (and Windows 10)
+# Weight-Watchers App for Windows Phone 8.1
 
 Because the official Weightwatchers app is iOS-/Android-only, this is an unofficial alternative for Windows.
 
@@ -10,10 +10,10 @@ There's **no** released version available from the Microsoft Store. There's only
 
 Download installable package for
 
-  - Windows Phone 8.1: https://bitly.com/2f5GdyG
+  - Windows Phone 8.1: https://bit.ly/2eYhhXg
   - Windows 10:
 
-NOTE: To install Apps on Windows Phone from sources other than Microsoft Store (a.k.a. sideload), follow [these simple steps](https://appstudio.windows.com/en-us/home/howto#installApp).
+NOTE: To install apps on Windows Phone 8.1 from sources other than Microsoft Store (a.k.a. sideload), follow [these simple steps](https://appstudio.windows.com/en-us/home/howto#installApp).
 
 ### Legal
 
