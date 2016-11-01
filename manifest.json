@@ -1,0 +1,21 @@
+{
+    "start_url": "https://eyecatchup.github.io/ww-web/",
+    "short_name": "Weight-Watchers",
+    "icons": [
+        {
+            "src": "https://eyecatchup.github.io/ww-web/square-71.png",
+            "sizes": "71x71"
+        },
+        {
+            "src": "https://eyecatchup.github.io/ww-web/square-150.png",
+            "sizes": "150x150"
+        },
+        {
+            "src": "https://eyecatchup.github.io/ww-web/square-310.png",
+            "sizes": "310x310"
+        }
+    ],
+    "display": "fullscreen",
+    "orientation": "any",
+    "name": "Weight-Watchers (for Windows)"
+}
